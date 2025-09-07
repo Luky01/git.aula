@@ -20,6 +20,12 @@ body{
 background-size: cover;
 }
 
+#conthitainer {
+  width: 100%;
+  max-width: 588px;
+  margin: 56px auto 0px;
+  padding: 0 24px;
+}
 #page{
   box-sizing: border-box;
   width: 800px;
