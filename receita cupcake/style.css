@@ -1,8 +1,3 @@
-/* background-image: url(./assents/Página\ de\ receita.png);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
-  */
 *{
   margin: 0;
   padding: 0;
@@ -20,12 +15,6 @@ body{
 background-size: cover;
 }
 
-#conthitainer {
-  width: 100%;
-  max-width: 588px;
-  margin: 56px auto 0px;
-  padding: 0 24px;
-}
 #page{
   box-sizing: border-box;
   width: 800px;
